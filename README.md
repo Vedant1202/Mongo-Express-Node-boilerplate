@@ -1,7 +1,7 @@
 # RESTful API Node Server Boilerplate
 
 [![Build Status](https://travis-ci.org/vedant1202/Mongo-Express-Node-boilerplate.svg?branch=master)](https://travis-ci.org/vedant1202/Mongo-Express-Node-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/vedant1202/Mongo-Express-Node-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/vedant1202/Mongo-Express-Node-boilerplate?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Vedant1202/Mongo-Express-Node-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/Vedant1202/Mongo-Express-Node-boilerplate?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2ab03f5d62a1404f87a659afe8d6d5de)](https://www.codacy.com/manual/vedant1202/Mongo-Express-Node-boilerplate?utm_source=github.com&utm_medium=referral&utm_content=vedant1202/Mongo-Express-Node-boilerplate&utm_campaign=Badge_Grade)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
